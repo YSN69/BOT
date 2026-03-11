@@ -1,14 +1,14 @@
 {
-  "name": "AFK Bot",
+  "name": "GANDU",
   "bot-account": {
     "username": "imgonnacream",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "7L_SMP_is_real.aternos.me",
-    "port": 62213,
-    "version": "",
+    "ip": "ONEBLOCK-SfKq.aternos.me",
+    "port": 60919,
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
@@ -64,13 +64,13 @@
   },
   "modules": {
     "avoidMobs": true,
-    "combat": true,
+    "combat": false,
     "beds": false,
     "chat": true,
     "console-commands": true
   },
   "combat": {
-    "attack-mobs": true,
+    "attack-mobs": false,
     "auto-eat": true
   },
   "beds": {
